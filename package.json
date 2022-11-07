@@ -1,0 +1,19 @@
+{
+  "name": "@joakimono/npm-pack",
+  "version": "1.0.0",
+  "description": "Test npm packaging",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joakimono/npm-pack.git"
+  },
+  "author": "Joakim Haugen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joakimono/npm-pack/issues"
+  },
+  "homepage": "https://github.com/joakimono/npm-pack#readme"
+}
